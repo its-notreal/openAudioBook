@@ -1,0 +1,9 @@
+/audiobooks/*
+/json_files/*
+/pickle_files/*
+*.epub
+*.pdf
+*.m4a
+*.wav
+*.mp3
+/.idea/
